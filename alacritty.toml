@@ -9,4 +9,5 @@ size = 16
 [keyboard]
 bindings = [
     { key="Space", mods="Control", chars="\u0000" },
-    { key="Enter", mods="Alt", action="SpawnNewInstance"}]
+    { key="Enter", mods="Alt", action="SpawnNewInstance"}
+    ]
