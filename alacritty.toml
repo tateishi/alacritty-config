@@ -1,5 +1,4 @@
-
-working_directory = "c:\\Users\\tatei"
+[general]
 live_config_reload = true
 
 [font]
