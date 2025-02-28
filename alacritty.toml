@@ -1,6 +1,10 @@
 [general]
 live_config_reload = true
 
+[terminal]
+shell = {program = "powershell.exe", args = ["-NoLogo"]}
+osc52 = "CopyPaste"
+
 [font]
 normal = {family = "HackGen Console NF", style="Regular"}
 size = 16
